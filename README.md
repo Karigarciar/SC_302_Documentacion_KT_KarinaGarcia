@@ -1,1 +1,1 @@
-Esta es mi primera practica con GitHub
+Esta es mi primera práctica con GitHub
